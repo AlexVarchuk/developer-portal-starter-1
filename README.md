@@ -13,7 +13,7 @@
 
     yarn start
 
-Note: search isn't functional in the development environment.
+Note: search isn't functional in the development environment
 
 ## Troubleshooting
 
